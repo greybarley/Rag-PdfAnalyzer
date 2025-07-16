@@ -1,0 +1,45 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+feedparser>=6.0.10
+python-dateutil>=2.8.2
+
+# AI/ML dependencies
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+pydantic>=2.0.0
+
+# Web framework
+streamlit>=1.28.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Email and scheduling
+sendgrid>=6.10.0
+schedule>=1.2.0
+celery>=5.3.0
+
+# Template engine
+jinja2>=3.1.0
+
+# Storage
+sqlalchemy>=2.0.0
+sqlite3
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+rich>=13.0.0
+loguru>=0.7.0
+
+# Development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0

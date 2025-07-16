@@ -1,0 +1,228 @@
+{
+  "scraped_at": "2025-07-16T07:59:33.438267",
+  "source": "Ars Technica",
+  "count": 10,
+  "articles": [
+    {
+      "title": "Medieval preacher invoked chivalric hero as a meme in sermon",
+      "url": "https://arstechnica.com/science/2025/07/medieval-preacher-invoked-chivalric-hero-as-a-meme-in-sermon/",
+      "body": "Medieval poet Geoffrey Chaucer twice made references to an early work featuring a Germanic mythological character named Wade . Only three lines survive, discovered buried in a sermon by a late 19th century scholar. There has been much debate over how to translate those fragments ever since, and whether the long-lost work was a monster-filled epic or a chivalric romance. Two Cambridge University scholars now say those lines have been \"radically misunderstood\" for 130 years, supplying their own translation—and argument in favor of a romance—in a new paper published in the Review of English Studies. We know such a medieval work once existed because it's referenced in other texts, most notably by Chaucer. He alludes to the \"tale of Wade\" in his epic poem Troilus and Criseyde and mentions \"Wade's boat [ boot ]\" in The Merchant's Tale —part of his masterpiece, The Canterbury Tales . A late 16th century editor of Chaucer's works, Thomas Speght , made a passing remark that Wade's boat was named \"Guingelot,\" and that Wade's \"strange exploits\" were \"long and fabulous,\" but didn't elaborate any further, no doubt assuming the tale was common knowledge and hence not worth retelling. Speght's truncated comment \"has often been called the most exasperating note ever written on Chaucer,\" F.N. Robinson wrote in 1933. So, the full story has been lost to history, although some remnant details have survived. For instance, there are mentions of Wade in an Old English poem, describing him as the son of a king and a \"serpent-legged mermaid.\" The Poetic Edda mentions Wade's son, Wayland , as well as Wayland's brothers Egil and Slagfin. Wade is also briefly referenced in Malory's Morte D'Arthur and a handful of other texts from around the same period. Fun fact: J.R.R. Tolkien based his Middle-earth character Earendil on Wade; Earendil sails across the sky in a magical ship called Wingelot (or Vingilot). Read full article Comments",
+      "summary": "\"This is very early evidence of a preacher weaving pop culture into a sermon to keep his audience hooked.\"",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T23:01:03",
+      "scraped_at": "2025-07-16T07:59:23.428184",
+      "author": "Jennifer Ouellette",
+      "tags": [
+        "Culture",
+        "Science",
+        "Chaucer",
+        "cultural studies",
+        "historical archaelogy",
+        "History",
+        "language history",
+        "Literature",
+        "medieval literature",
+        "textual analysis"
+      ]
+    },
+    {
+      "title": "Large study squashes anti-vaccine talking points about aluminum",
+      "url": "https://arstechnica.com/health/2025/07/large-study-squashes-anti-vaccine-talking-points-about-aluminum/",
+      "body": "A sweeping analysis of health data from more than 1.2 million children in Denmark born over a 24-year period found no link between the small amounts of aluminum in vaccines and a wide range of health conditions—including asthma, allergies, eczema, autism, and attention deficit-hyperactivity disorder (ADHD). The finding, published in the Annals of Internal Medicine , firmly squashes a persistent anti-vaccine talking point that can give vaccine-hesitant parents pause. Small amounts of aluminum salts have been added to vaccines for decades as adjuvants, that is, components of the vaccine that help drum up protective immune responses against a target germ. Aluminum adjuvants can be found in a variety of vaccines, including those against diphtheria, tetanus, and pertussis, Haemophilus influenzae type b (Hib), and hepatitis A and B. Read full article Comments",
+      "summary": "RFK Jr. has falsely called aluminum adjuvants \"extremely neurotoxic.\"",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T22:28:39",
+      "scraped_at": "2025-07-16T07:59:24.428896",
+      "author": "Beth Mole",
+      "tags": [
+        "Health",
+        "ACIP",
+        "aluminum",
+        "anti-vaccine",
+        "robert f kennedy jr",
+        "vaccine"
+      ]
+    },
+    {
+      "title": "Congress moves to reject bulk of White House’s proposed NASA cuts",
+      "url": "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/",
+      "body": "A budget-writing panel in the House of Representatives passed a $24.8 billion NASA budget bill Tuesday, joining a similar subcommittee in the Senate in maintaining the space agency's funding after the White House proposed a nearly 25 percent cut. The budget bills making their way through the House and Senate don't specify funding levels for individual programs, but the topline numbers—$24.8 billion in the House version and $24.9 billion the Senate bill—represent welcome news for scientists, industry, and space enthusiasts bracing for severe cuts requested by the Trump administration. The spending plan passed Tuesday by the House Appropriations Committee's Subcommittee on Commerce, Justice, Science, and Related Agencies covers NASA and numerous other federal agencies. The $24.8 billion budget the House seeks for NASA is $6 billion more than the Trump administration's budget proposal, and keeps NASA's funding next year the same as this year. Read full article Comments",
+      "summary": "We're still months away from these budget bills having a chance to become law.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T22:05:09",
+      "scraped_at": "2025-07-16T07:59:25.430314",
+      "author": "Stephen Clark",
+      "tags": [
+        "Science",
+        "Space",
+        "congress",
+        "human spaceflight",
+        "NASA",
+        "nasa budget",
+        "solar system",
+        "space policy",
+        "space science"
+      ]
+    },
+    {
+      "title": "Seagate’s massive, 30TB, $600 hard drives are now available for anyone to buy",
+      "url": "https://arstechnica.com/gadgets/2025/07/seagates-massive-30tb-600-hard-drives-are-now-available-for-anyone-to-buy/",
+      "body": "For more than two decades, hard drive manufacturer Seagate has been experimenting with heat-assisted magnetic recording (HAMR) technology for increasing hard drive density—drives that use tiny lasers to heat up and expand parts of the drive platter, write data, and then shut off to allow the platter to cool and contract, all within less than a nanosecond. After decades of overly rosy availability predictions, Seagate announced in late 2024 that it was finally delivering HAMR-based drives with capacities of up to 36TB to some datacenter customers. Today, the drives are finally available for end users and individual IT administrators to buy, albeit only in smaller capacities for now. Seagate and other retailers will sell you massive 30TB IronWolf Pro and Exos M hard drives for $600, and 28TB drives for $570. Both drives use conventional magnetic recording (CMR) technology, which performs better than the shingled magnetic recording (SMR) technology sometimes used to increase disk density. The drives are based on Seagate's Mosaic 3+ platform, which \"incorporates Seagate’s unique implementation of HAMR to deliver mass-capacity storage at unprecedented areal densities of 3TB per disk and beyond.\" Read full article Comments",
+      "summary": "Seagate's heat-assisted drive tech has been percolating for more than 20 years.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T21:44:05",
+      "scraped_at": "2025-07-16T07:59:26.431120",
+      "author": "Andrew Cunningham",
+      "tags": [
+        "Tech",
+        "HAMR",
+        "hard drives",
+        "Seagate"
+      ]
+    },
+    {
+      "title": "Chinese firms rush for Nvidia chips as US prepares to lift ban",
+      "url": "https://arstechnica.com/information-technology/2025/07/nvidia-to-resume-china-ai-chip-sales-after-huang-meets-trump/",
+      "body": "Chinese firms have begun rushing to order Nvidia's H20 AI chips as the company plans to resume sales to mainland China, Reuters reports . The chip giant expects to receive US government licenses soon so that it can restart shipments of the restricted processors just days after CEO Jensen Huang met with President Donald Trump, potentially generating $15 billion to $20 billion in additional revenue this year. Nvidia said in a statement that it is filing applications with the US government to resume H20 sales and that \"the US government has assured Nvidia that licenses will be granted, and Nvidia hopes to start deliveries soon.\" Since the launch of ChatGPT in 2022, Nvidia's financial trajectory has been linked to the demand for specialized hardware capable of executing AI models with maximum efficiency. Nvidia designed its data center GPU to perform the massive parallel computations required by neural networks, processing countless matrix operations simultaneously. Read full article Comments",
+      "summary": "H20 chips, designed to skirt export bans, are back after Trump meets with CEO.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T20:49:04",
+      "scraped_at": "2025-07-16T07:59:27.432001",
+      "author": "Benj Edwards",
+      "tags": [
+        "AI",
+        "Biz & IT",
+        "Policy",
+        "AI chips",
+        "AI GPU",
+        "AI infrastructure",
+        "AMD",
+        "bytedance",
+        "ChatGPT",
+        "chatgtp",
+        "china",
+        "CUDA",
+        "deepseek",
+        "Donald Trump",
+        "Export controls",
+        "Huawei",
+        "Jensen Huang",
+        "machine learning",
+        "NVIDIA",
+        "Omdia",
+        "semiconductors",
+        "Tencent"
+      ]
+    },
+    {
+      "title": "Corporate inadequacy has rendered my favorite rediscovered gadget useless",
+      "url": "https://arstechnica.com/gadgets/2025/07/fickle-business-strategy-has-turned-my-new-favorite-earbuds-into-e-waste/",
+      "body": "I went for a run this morning while holding my iPhone, which was connected to a cable that attached to my earbuds. I’ve exercised with wired headphones for years, but today, the cord, with its persistent jostling, was especially distracting. That’s because I was previously running with a pair of Bluetooth earbuds, EPOS’s GTW 270 . They came out in 2021 for $200, and I received them as a gift. They typically sat in a drawer until this spring, when I started running outside (rather than in a gym or not at all) for the first time in a couple of years. Without a place to store my phone, wired headphones felt cumbersome while running. I previously overlooked the GTW 270 because they are not as comfortable as my wired earbuds and tend to lose their connection (especially with my PC) if the audio stops playing momentarily. The latter problem proved less common when using the earbuds with my phone, though. Suddenly, I was enamored with a gadget that had spent most of its life forgotten in a drawer. But after a few short months, one of my earliest concerns about wireless earbuds was realized: I lost the GTW 270’s case, which charges the earbuds and enables pairing. Read full article Comments",
+      "summary": "Without rare, proprietary tech, these earbuds are useless.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T18:49:49",
+      "scraped_at": "2025-07-16T07:59:28.432775",
+      "author": "Scharon Harding",
+      "tags": [
+        "Tech",
+        "audio",
+        "earbuds",
+        "headphones",
+        "repairability"
+      ]
+    },
+    {
+      "title": "From the hospital to the car plant: What is GM doing with CT scanners?",
+      "url": "https://arstechnica.com/cars/2025/07/from-the-hospital-to-the-car-plant-what-is-gm-doing-with-ct-scanners/",
+      "body": "More and more, we're seeing imaging technologies and machine learning showing up in automotive applications. It's usually to diagnose some kind of problem like quality control, although not always—the camera-based system by UVeye that we wrote about a few years ago made news recently after Hertz started using it to charge renters for things like scuffs on hubcaps . I have fewer concerns about customer abuse with General Motors' use of CT scanning, which simply seems like a clever adaptation of medical technology into another industry. Ignore, if you can, GM's business decisions. Maybe you're upset because it killed your favorite brand, changed the shape of the Corvette headlights, or abandoned Apple CarPlay. There are many valid reasons, but none change the fact that the company's engineers are quite creative. (That's probably why it stings so much when the company starts hacking things up .) GM first turned to X-rays as a way of doing two-dimensional quality control on castings during the development process, according to Ed Duby, manufacturing engineering executive director at GM. \"Much like the application to people, when you think about X-ray and CT scan, it's really trying to diagnose something without having to go into surgery. We kind of want to do the same thing with our castings,\" Duby told me. Read full article Comments",
+      "summary": "The adoption of medical scanning tech has improved first-time quality by 90 percent.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T17:07:21",
+      "scraped_at": "2025-07-16T07:59:29.433959",
+      "author": "Jonathan M. Gitlin",
+      "tags": [
+        "Cars"
+      ]
+    },
+    {
+      "title": "Grok’s “MechaHitler” meltdown didn’t stop xAI from winning $200M military deal",
+      "url": "https://arstechnica.com/tech-policy/2025/07/groks-mechahitler-meltdown-didnt-stop-xai-from-winning-200m-military-deal/",
+      "body": "A week after Grok's antisemitic outburst , which included praise of Hitler and a post calling itself \"MechaHitler,\" Elon Musk's xAI has landed a US military contract worth up to $200 million. xAI announced a \"Grok for Government\" service after getting the contract with the US Department of Defense. The military's Chief Digital and Artificial Intelligence Office (CDAO) yesterday said that \"awards to Anthropic, Google, OpenAI, and xAI—each with a $200M ceiling—will enable the Department to leverage the technology and talent of US frontier AI companies to develop agentic AI workflows across a variety of mission areas.\" While government grants typically take many months to be finalized, Grok's antisemitic posts didn't cause the Trump administration to change course before announcing the awards. The US announcement didn't include much detail but said the four grants \"to leading US frontier AI companies [will] accelerate Department of Defense (DoD) adoption of advanced AI capabilities to address critical national security challenges.\" The CDAO has been talking about grants for what it calls frontier AI since at least December 2024 , when it said it would establish \"partnerships with Frontier AI companies\" and had identified \"a need to accelerate Generative AI adoption across the DoD enterprise from analysts to warfighters to financial managers.\" Read full article Comments",
+      "summary": "xAI announces Grok for Government, tells Grok to stop calling itself MechaHitler.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T16:57:27",
+      "scraped_at": "2025-07-16T07:59:30.434828",
+      "author": "Jon Brodkin",
+      "tags": [
+        "Policy",
+        "grok",
+        "mechahitler",
+        "xAI"
+      ]
+    },
+    {
+      "title": "GOP’s pro-industry crypto bills could financially ruin millions, lawmaker warns",
+      "url": "https://arstechnica.com/tech-policy/2025/07/trumps-stablecoin-push-will-open-floodgates-to-massive-fraud-lawmaker-warns/",
+      "body": "It's \"Crypto Week\" in Congress, and experts continue to warn that legislation Donald Trump wants passed quickly could give the president ample opportunities to grift while leaving Americans more vulnerable to scams and financial ruin. Perhaps most controversial of the bills is the one that's closest to reaching Trump's desk, the GENIUS Act, which creates a framework for banks and private companies to issue stablecoins. After passing in the Senate last month, the House of Representatives is hoping to hold a vote as soon as Thursday, insiders told Politico . Stablecoins are often hyped as a more reliable form of cryptocurrency, considered the \"cash of the blockchain\" because their value can be pegged to the US dollar, Delicia Hand, Consumer Reports' senior director monitoring digital marketplaces, told Ars. Read full article Comments",
+      "summary": "Trump’s crypto bills could turn trusted Big Tech companies into the next FTX.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T16:45:59",
+      "scraped_at": "2025-07-16T07:59:31.435676",
+      "author": "Ashley Belanger",
+      "tags": [
+        "Policy",
+        "clarity act",
+        "Consumer protection",
+        "crypto scams",
+        "crypto week",
+        "cryptocurrency",
+        "Donald Trump",
+        "fraud",
+        "FTX",
+        "genius act",
+        "stablecoins"
+      ]
+    },
+    {
+      "title": "‘Not that into peace doves’: The Apollo-Soyuz patch NASA rejected",
+      "url": "https://arstechnica.com/space/2025/07/not-that-into-peace-doves-the-apollo-soyuz-patch-nasa-rejected/",
+      "body": "Fifty years ago, on July 15, 1975, three NASA astronauts and two Russian cosmonauts lifted off to meet up in orbit for the first time. Representing the joint Apollo-Soyuz Test Project (ASTP, or Soyuz-Apollo in the Soviet Union), both crews wore a cloth patch that featured the artwork of an accomplished space artist. The design that flew, however, was not the astronauts' first pick. That patch idea was rejected because Paul Calle opted to highlight the détente nature of the international handshake in space. \"Our first choice for a patch... has been disapproved ,\" wrote Deke Slayton, the mission's docking module pilot, in a letter to Calle. \"It seems the powers that be are not that into peace doves and olive branches at the moment.\" Read full article Comments",
+      "summary": "Paul Calle thought he had represented the Apollo-Soyuz Test Project.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "published_at": "2025-07-15T14:58:21",
+      "scraped_at": "2025-07-16T07:59:32.436479",
+      "author": "Robert Pearlman",
+      "tags": [
+        "Space",
+        "Alexei Leonov",
+        "Apollo-Soyuz Test Project",
+        "ASTP",
+        "Bob McCall",
+        "Chris Calle",
+        "Deke Slayton",
+        "Jean Pinataro",
+        "mission patch",
+        "Paul Calle",
+        "peace",
+        "space collectible",
+        "Space exploration",
+        "space history",
+        "space memorabilia",
+        "Thomas Stafford",
+        "Tim Gagnon",
+        "Valery Kubasov",
+        "Vance Brand"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+news_sources:
+  # RSS Feed Sources
+  rss_feeds:
+    - name: "TechCrunch"
+      url: "https://techcrunch.com/feed/"
+      category: "tech"
+      enabled: true
+      
+    - name: "BBC Technology"
+      url: "http://feeds.bbci.co.uk/news/technology/rss.xml"
+      category: "tech"
+      enabled: true
+      
+    - name: "Reuters Business"
+      url: "https://www.reuters.com/arc/outboundfeeds/rss/category/business/?outputType=xml"
+      category: "finance"
+      enabled: true
+      
+    - name: "BBC Health"
+      url: "http://feeds.bbci.co.uk/news/health/rss.xml"
+      category: "health"
+      enabled: true
+      
+    - name: "Ars Technica"
+      url: "http://feeds.arstechnica.com/arstechnica/index"
+      category: "tech"
+      enabled: true
+
+  # Web Scraping Sources (for sites without RSS)
+  web_sources:
+    - name: "Hacker News"
+      url: "https://news.ycombinator.com/"
+      category: "tech"
+      selector: ".athing"
+      title_selector: ".storylink"
+      enabled: false  # Disabled by default due to rate limiting
+      
+    - name: "Product Hunt"
+      url: "https://www.producthunt.com/"
+      category: "tech"
+      enabled: false
+
+# Scraping Configuration
+scraping:
+  max_articles_per_source: 10
+  timeout: 30
+  user_agent: "NewsAggregator/1.0 (Educational Purpose)"
+  delay_between_requests: 1  # seconds
+  retry_attempts: 3
+
+# Categories
+categories:
+  - tech
+  - finance
+  - health
+  - politics
+  - sports
+  - entertainment
+  - science
+  - business
+
+# Storage
+storage:
+  format: "json"  # json or database
+  path: "data/articles/"
+  max_age_days: 7  # Remove articles older than this
